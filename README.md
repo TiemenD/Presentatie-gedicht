@@ -2,6 +2,7 @@
 
 Rood
 Groen
+Roze
 Zwart 
 Geel
 
